@@ -12,7 +12,7 @@ export default class Header extends Component {
             <div className="text-center">
               <div className="author-img" style={{backgroundImage: 'url(images/Myself.jpg)'}} />
               <h1 id="colorlib-name"><a href="index.html">Sourab Banka</a></h1>
-              <span className="status">Computer Engineering Student</span>
+              <span className="status">A Technology Enthusiast!</span>
             </div>
             <nav id="colorlib-main-menu" role="navigation" className="navbar" style={{paddingTop:30}}>
               <div id="navbar" className="collapse">

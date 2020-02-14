@@ -74,7 +74,7 @@ export default class Projects extends Component {
 											<h3><a href="work.html">Mobile Application</a></h3>
 											<span>Safety App</span>
 											<p className="icon">
-												<span><a href="https://github.com/sourabbanka22/SafetyApp_Mobile/blob/master/README.md"><FontAwesomeIcon icon={faExternalLinkAlt}/></a></span>
+												<span><a href="https://drive.google.com/file/d/1IxlGymqZNfHKW4ILyzy0SjYDcd-IOuc1/view"><FontAwesomeIcon icon={faExternalLinkAlt}/></a></span>
 											</p>
 										</div>
 									</div>

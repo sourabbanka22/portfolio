@@ -20,7 +20,7 @@ export default class Introduction extends Component {
 
                           <div style={{display: "flex",justifyContent: "space-between", paddingTop:15, paddingBottom:5}}>
                               <a href="https://www.linkedin.com/in/sourab-banka-23685b171" ><button className="btn btn-outline-primary"> <FontAwesomeIcon icon={faUserFriends}/> Connect</button></a>
-                              <a href="https://drive.google.com/file/d/1JEEv88432GRWwP9nuI6ce32nljSAK268/view"><button className="btn btn-outline-primary"><FontAwesomeIcon icon={faAddressCard}/> View CV </button></a>
+                              <a href="https://drive.google.com/file/d/1ZbsERHnW2-W7lcajnHrvEJ1kBN3MhP_x/view"><button className="btn btn-outline-primary"><FontAwesomeIcon icon={faAddressCard}/> View CV </button></a>
                           </div>
 
                           <h3>I like to learn new technologies as the world continues to
